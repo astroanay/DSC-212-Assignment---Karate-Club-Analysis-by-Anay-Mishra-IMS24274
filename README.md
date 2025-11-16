@@ -64,10 +64,11 @@ This project is based on:
 
 * M.E.J. Newman’s spectral methods for community detection
 * Zachary’s Karate Club dataset (a benchmark for social network analysis)
+* I have used some AI tools for help in coding (to know more about functions which are available in NetworkX)
 
 ---
 
 ## 📎 License
 
-This project is for academic use and submission only. Redistribution or publication without permission is prohibited. The project will be accesible until 04th January 2026.
+This project is for academic use and submission only. Redistribution or publication without permission is prohibited. The project will be accesible until 04th January 2026( till the end of Varsha 2025 Semester) .
 
