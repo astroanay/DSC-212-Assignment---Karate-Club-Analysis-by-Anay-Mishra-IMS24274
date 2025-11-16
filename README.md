@@ -71,4 +71,3 @@ This project is based on:
 
 This project is for academic use and submission only. Redistribution or publication without permission is prohibited. The project will be accesible until 04th January 2026.
 
-```
